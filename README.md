@@ -6,14 +6,14 @@
 </p>
 
 ---
-<h3> Spotify - Now Playing </h3>
+### Spotify - Now Playing
 
 [![Now Playing](https://now-playing-profile-gules.vercel.app/now-playing)](https://now-playing-profile-gules.vercel.app/now-playing?open)
 
 ---
-<h3 align="center"> Social Links </h3>
+### Social Links
 
-<p align="center">
+<p>
   <a href="https://discord.gg/aMU9Akx">
     <img alt="discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -26,9 +26,9 @@
 </p>
 
 ---
-<h3 align="center"> Learning </h3>
+### Learning
 
-<p align="center">
+<p>
   <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -40,6 +40,7 @@
 </p>
 
 ---
-<h3> Github Stats </h3>
+### Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact" alt="juampi20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true" alt="juampi20" /></p>
