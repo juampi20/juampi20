@@ -43,6 +43,6 @@
 ### Github Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&hide=css,shell" alt="juampi20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&hide=shell" alt="juampi20" />
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true&hide=stars,contribs" alt="juampi20" />
 </p>
