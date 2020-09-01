@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo</h1>
+<h1 align="center">Hi there 👋, I'm Juan Pablo</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
 <p align="center">
@@ -9,14 +9,14 @@
 - ⚡ Fun fact **Games!**
 
 ---
+### Spotify - Now Playing
+[![Now Playing](https://now-playing-profile-gules.vercel.app/now-playing)](https://now-playing-profile-gules.vercel.app/now-playing?open)
+
+---
 ### Social Links
 [![Discord][discord-badge]][discord]
 [![Steam][steam-badge]][steam]
 [![Spotify][spotify-badge]][spotify]
-
----
-### Spotify - Now Playing
-[![Now Playing](https://now-playing-profile-gules.vercel.app/now-playing)](https://now-playing-profile-gules.vercel.app/now-playing?open)
 
 ---
 ### Learning
@@ -31,8 +31,8 @@
 
 ---
 ### Github Stats
-![Juampi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=default)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=default&hide=shell,css)
+![Juampi's github stats](https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true)
 
 
 <!-- Links -->
