@@ -6,9 +6,12 @@
 </p>
 
 ---
-### Spotify - Now Playing
+### Spotify
+##### Now Playing
 
-[![Now Playing](https://now-playing-profile-gules.vercel.app/now-playing)](https://now-playing-profile-gules.vercel.app/now-playing?open)
+<a href="hhttps://now-playing-profile-gules.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-gules.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 
 ---
 ### Social Links
