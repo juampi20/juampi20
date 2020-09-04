@@ -46,6 +46,6 @@
 ### Github Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&hide=shell&theme=dracula" alt="juampi20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&hide=shell,css&theme=dracula" alt="juampi20" />
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true&hide=stars,contribs&theme=dracula" alt="juampi20" />
 </p>
