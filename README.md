@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">A Computer Engineering Student</h3>
+<h3 align="center">I'm a Computer Engineering Student</h3>
 
+<!--  
 <p align="center">
 <img src="https://badges.pufler.dev/visits/juampi20/juampi20" alt="juampi20" />
 </p>
+-->
 
 ---
 ### Spotify
