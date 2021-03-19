@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! :wave:
 
-<!--
-**juampi20/juampi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true">](https://metrics.lecoq.io/juampi20?template=classic)
 
-Here are some ideas to get you started:
+#### I am **Juan Pablo**, a university student from Mendoza, Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   :man_student: Computer Enginner Student
+-   :hammer_and_pick: Python, a little bit Java/JavaScript
+-   :pencil2: Linux / VSCode
+-   :man: Pronouns: he/him
+
+
+
+---
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
