@@ -17,6 +17,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java       2 hrs 38 mins   ███████████████████▒░░░░░   77.83 % 
+Markdown   35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
+YAML       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 <!--END_SECTION:waka-->
