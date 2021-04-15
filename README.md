@@ -17,10 +17,10 @@ I am **Juan Pablo**, a university student from Mendoza, Argentina.
 
 <!--START_SECTION:waka-->
 ```text
-Java         4 hrs 54 mins   █████████████░░░░░░░░░░░░   51.83 % 
-Git Config   1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Properties   1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-XML          51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Markdown     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Java         5 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.14 % 
+Python       2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Git Config   1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Properties   1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+XML          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 <!--END_SECTION:waka-->
