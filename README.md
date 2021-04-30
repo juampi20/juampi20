@@ -17,9 +17,9 @@ I am **Juan Pablo**, a university student from Mendoza, Argentina.
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 13 mins  ████████████████████▒░░░░   81.80 % 
-Text         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Git Config   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Other        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Python       12 hrs 56 mins  ████████████████████░░░░░   80.29 % 
+Other        1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Text         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Git Config   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 <!--END_SECTION:waka-->
