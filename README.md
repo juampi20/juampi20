@@ -11,8 +11,7 @@
     <ul>
       <li> 👨‍🎓 I’m a Computer Enginner Student </li>
       <li> 🌱 I’m learning Spring and Java </li>
-      <li> 🔨 I'm working with Git and Python </li>
-      <li> ✏️ I'm working with Linux </li>
+      <li> 🔨 I'm working with Linux, Git and Python </li>
       <li> 👦 Pronouns: he/him </li>
     </ul>
 </p>
