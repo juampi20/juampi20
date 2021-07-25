@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://discord.gg/PBA2H2qvkU">Discord</a> •
-  <a href="https://twitter.com/juampigarcia20">Twitter</a>
+  <a href="https://twitter.com/chesttr20">Twitter</a>
 </p>
 
 <p>
