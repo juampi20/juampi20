@@ -1,35 +1,32 @@
-<h2 align="center">👋 Hello! I'm Juampi.</h2>
-<p align="center">
-  A university student from Mendoza, Argentina.
-</p>
-<p align="center">
-  <a href="https://discord.gg/PBA2H2qvkU">Discord</a> •
-  <a href="https://twitter.com/chesttr20">Twitter</a>
-</p>
+## 👋 Hello! I'm Juampi.
 
-<p>
-    <ul>
-      <li> 👨‍🎓 I’m a Computer Enginner Student </li>
-      <li> 🌱 I’m learning Spring and Java </li>
-      <li> 🔨 I'm working with Linux, Git and Python </li>
-      <li> 👦 Pronouns: he/him </li>
-    </ul>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/PBA2H2qvkU)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chesttr20)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juampig20)
 
-<hr>
+### Personal Stuffs:
 
-<details>
-  <summary> 📌 Github Stats </summary> </br>
-  <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css,shell">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=juampi20&theme=darcula&hide_border=true&background=FFFFFF00">
-  </p>
+A university student from Mendoza, Argentina.
+
+- 👨‍🎓 &nbsp; I’m a **Computer Enginner** Student.
+- 🌱 &nbsp; I’m learning **Spring** and **Java**.
+- 🔨 &nbsp; I'm working with **Linux**, **Git** and **Python**.
+
+### Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary><br/>
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=juampi20&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=darcula">
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juampi20&layout=compact&langs_count=8&hide=html,css,shell&hide_border=true&theme=darcula">
+</details>
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=juampi20&hide_border=true&theme=darcula">
 </details>
 
 <details>
-  <summary> 🕑️ Wakatime </summary> </br>
+  <summary><b>🕑️ Wakatime</b></summary> </br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chester20&theme=darcula&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chester20&hide_border=true&theme=darcula">
   </p>
 </details>
