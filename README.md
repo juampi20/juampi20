@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Juampi.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/PBA2H2qvkU)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chesttr20)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/juampig20)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juampig20)
 
 ### Personal Stuffs:
@@ -9,8 +9,8 @@
 A university student from Mendoza, Argentina.
 
 - 👨‍🎓 &nbsp; I’m a **Computer Enginner** Student.
-- 🌱 &nbsp; I’m learning **Spring** and **Java**.
-- 🔨 &nbsp; I'm working with **Linux**, **Git** and **Python**.
+- 🌱 &nbsp; I’m learning **JavaScript/React** and **Java/Spring**.
+- 🔨 &nbsp; I'm working with **Git** and **Python**.
 
 ### Dev Stuffs:
 
@@ -24,9 +24,9 @@ A university student from Mendoza, Argentina.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=juampi20&hide_border=true&theme=darcula">
 </details>
 
-<details>
+<!-- <details>
   <summary><b>🕑️ Wakatime</b></summary> </br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chester20&hide_border=true&theme=darcula">
   </p>
-</details>
+</details> -->
