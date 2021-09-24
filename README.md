@@ -24,9 +24,9 @@ A university student from Mendoza, Argentina.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=juampi20&hide_border=true&theme=darcula">
 </details>
 
-<!-- <details>
+<details>
   <summary><b>🕑️ Wakatime</b></summary> </br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chester20&hide_border=true&theme=darcula">
   </p>
-</details> -->
+</details>
