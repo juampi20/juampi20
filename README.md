@@ -1,8 +1,10 @@
 ## 👋 Hello! I'm Juampi.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/PBA2H2qvkU)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/juampig20)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juampig20)
+[![Twitter](https://img.shields.io/badge/--1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/juampig20)
+[![Spotify](https://img.shields.io/badge/--1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/11150996597)
+[![Steam](https://img.shields.io/badge/--000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/juampig20)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=white)](http://git-scm.com/)
 
 ### Personal Stuffs:
 
