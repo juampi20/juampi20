@@ -4,8 +4,9 @@ print(f"Hello! I'm {juampi20}. Welcome to my profile.")
 ```python
 Description  :  'A university student from Mendoza, Argentina.'
      Whoami  :  'Software Engineering Student.'
-  Languages  :  python, java, js, html/css
-      Tools  :  git, vscode
+  Languages  :  python, java, javascript, sql
+      Tools  :  git, docker, vscode, pycharm, intellij
+  Libraries  :  pandas, numpy, matplotlib/plotly/seaborn, tensorflow, scikit-learn, beautifulsoap
 ```
 ### Dev Stuffs:
 
