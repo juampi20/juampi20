@@ -6,7 +6,7 @@ Description  :  'A university student from Mendoza, Argentina.'
      Whoami  :  'Software Engineering Student.'
   Languages  :  python, java, javascript, sql
       Tools  :  git, docker, vscode, pycharm, intellij
-  Libraries  :  pandas, numpy, matplotlib/plotly/seaborn, tensorflow, scikit-learn, beautifulsoap
+  Libraries  :  pandas, numpy, matplotlib/plotly/seaborn, tensorflow, scikit-learn, beautifulsoup
 ```
 ### Dev Stuffs:
 
