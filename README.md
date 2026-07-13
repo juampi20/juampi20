@@ -9,10 +9,10 @@ Whoami       :  'Software Engineering Student & Backend Dev'
 Languages    :  python, java, sql
 Backend      :  fastapi, flask, spring-boot, jpa / hibernate
 
-# Data & AI Stack
-AI_ML        :  tensorflow, scikit-learn
-Data_Ops     :  pandas, numpy, matplotlib, plotly
-Automation   :  playwright, beautifulsoup, selenium
+# Data, ML & Automation
+Machine_Learning : tensorflow, scikit-learn
+Data_Analytics   : pandas, numpy, matplotlib, plotly
+Automation       : playwright, beautifulsoup, selenium
 
 # Infra & Dev Environment
 Databases    :  postgresql, mysql, sqlite
